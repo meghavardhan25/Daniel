@@ -1,0 +1,6 @@
+
+{
+  "name": "AI Disease Awareness Chatbot",
+  "description": "An AI-powered chatbot to answer questions about various diseases, providing awareness and information using the OpenRouter API.",
+  "requestFramePermissions": []
+}
